@@ -22,4 +22,5 @@ function addPokemon(name) {
     type or anything else you would like to include.  Add a way to go back to the list when your're done looking at the detail.
 
     Be creative, you can style/arrange the detail information however you like! 
+    $(element).on('click', function () {})
 */
